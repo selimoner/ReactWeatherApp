@@ -1,0 +1,14 @@
+/* Navbar.css */
+
+div {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
